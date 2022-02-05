@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Porfírio
-- 👀 I’m interested in Data Science
+- 👀 I´m Jr.Data Scientist
 - 🌱 I’m currently learning Python, EDA, ML, SQL
 
 *** Keep calm and solve the problem ***
