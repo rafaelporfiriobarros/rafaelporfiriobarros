@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Porfírio
 - 👀 I´m Jr.Data Scientist
-- 🌱 I’m currently learning SQL, SPARK, PYTHON, ML, DL, EDA, PANDAS, STATISTICS, MATH, AWS, POWER BI.
+- 🌱 I’m currently learning SQL | ETL | DW | Python | Spark | AWS | DevOps | Math | Statistics | EDA | Machine Learning | Power BI.
 
 *** Keep calm and solve the problem ***
 <!---
