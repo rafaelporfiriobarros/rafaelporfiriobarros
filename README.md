@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/64717231/233403663-0a8b0f36-2f3e-46a9-aa87-e051a7e3ed46.png)
 
 
-##### 🎲 Data Science:
+#### 🎲 Data Science:
 
 ![image](https://user-images.githubusercontent.com/64717231/233402663-ded3dcae-6daa-4373-95bd-7b90e7691cba.png)
 ![image](https://user-images.githubusercontent.com/64717231/233402698-8fac190c-334b-4dc5-a2e2-adc3f67c0a78.png)
