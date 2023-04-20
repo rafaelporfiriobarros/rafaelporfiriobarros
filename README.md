@@ -7,7 +7,7 @@
 
 ### 🚀 Languages and Tools:
 
-💻 Daily use:
+#### 💻 Daily use:
 
 ![image](https://user-images.githubusercontent.com/64717231/233403559-0d4a21c6-5068-4379-8182-29261d46421c.png)
 ![image](https://user-images.githubusercontent.com/64717231/233403586-09b7c0f5-6830-4e97-8c1c-e01c2a7c5023.png)
