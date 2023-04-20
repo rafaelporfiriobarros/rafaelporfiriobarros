@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/64717231/233402124-702f2e1b-b423-4e34-b4d3-7432bcebd174.png)
 
-- 👀 I´m Jr.Data Scientist
+- 👀 I´m **Jr.Data Scientist**
 - 🌱 I'm currently learning **Data Science** and **Data Engineering**.
 
 ### 🚀 Languages and Tools:
