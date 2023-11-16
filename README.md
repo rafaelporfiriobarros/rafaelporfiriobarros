@@ -11,7 +11,7 @@
 
 <a href="https://medium.com/@rafaelporfirio" rel="nofollow"><img src="https://camo.githubusercontent.com/4aec51c49e6a0a71969f20568b1ceb4b82ea35ac77547fd6394e74f72a7ed7fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d656469756d2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f404b6172696e6e654372697374696e61" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-Medium-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@KarinneCristina" style="max-width: 100%;"></a>
 
-### Skills:
+### 🧰 Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
