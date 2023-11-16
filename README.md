@@ -1,4 +1,8 @@
 ## 👋 Hi, Welcome to my Github!
+
+<img src="[URL_da_Imagem](https://exemplo.com/logo.png](https://cdnb.artstation.com/p/assets/images/images/048/054/845/large/taylor-brandenburger-2.jpg?1649098394)">
+
+
 - 📊 I'm currently studying Data Science
 - 📍 I live in São Paulo - SP/BR
 
