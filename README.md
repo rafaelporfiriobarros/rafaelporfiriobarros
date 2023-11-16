@@ -4,13 +4,11 @@
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/rafael-porfirio-barros-2aa9a4104/" rel="nofollow">
-         <img alt="LinkedIn" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-      </a>
+<a href="https://www.linkedin.com/in/rafael-porfirio-barros-2aa9a4104/" rel="nofollow"><img src="https://camo.githubusercontent.com/57b24e7ae3973f7c7b41313aeb5a3193b673eed50dd91e481800cbb43d4ad8ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b6172696e6e656372697374696e61706572656972612f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/karinnecristinapereira//" style="max-width: 100%;"></a>
 
-<a href="mailto:rafaporfirio.barros@gmail.com"><img alt="Gmail" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:rafaporfirio.barros@gmail.com"><img src="https://camo.githubusercontent.com/462afe937548eebcf0b8c88a8210e71a85a11bdd78ec46c8221df21f52f9cdae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6b6172696e6e656372697374696e617065726569726140676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=karinnecristinapereira@gmail.com" style="max-width: 100%;"></a>
 
-<a hef="https://medium.com/@rafaelporfirio">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://medium.com/@rafaelporfirio" rel="nofollow"><img src="https://camo.githubusercontent.com/4aec51c49e6a0a71969f20568b1ceb4b82ea35ac77547fd6394e74f72a7ed7fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d656469756d2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f404b6172696e6e654372697374696e61" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-Medium-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@KarinneCristina" style="max-width: 100%;"></a>
 
 #### Skills:
 
