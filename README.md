@@ -1,41 +1,27 @@
-### 👋 Hi, I’m Rafael Porfírio
+## 👋 Hi, Welcome to my Github!
+- 📊 I'm currently studying Data Science
+- 📍 I live in São Paulo - SP/BR
 
-![image](https://user-images.githubusercontent.com/64717231/233402124-702f2e1b-b423-4e34-b4d3-7432bcebd174.png)
+### 📫 How to reach me:
+<a hef="https://www.linkedin.com/in/rafael-porfirio-barros-2aa9a4104/" rel="nofollow"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- 👀 I´m **Jr.Data Scientist**
-- 🌱 I'm currently learning **Data Science** and **Data Engineering**.
+<a href="mailto:rafaporfirio.barros@gmail.com"><img alt="Gmail" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
-### 🚀 Languages and Tools:
+<a hef="https://medium.com/@rafaelporfirio">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
 
-#### 💻 Daily use:
+#### Skills:
 
-![image](https://user-images.githubusercontent.com/64717231/233403559-0d4a21c6-5068-4379-8182-29261d46421c.png)
-![image](https://user-images.githubusercontent.com/64717231/233403586-09b7c0f5-6830-4e97-8c1c-e01c2a7c5023.png)
-![image](https://user-images.githubusercontent.com/64717231/233403620-e3dc5e3f-89cb-48be-a016-a0f862738ce9.png)
-![image](https://user-images.githubusercontent.com/64717231/233403663-0a8b0f36-2f3e-46a9-aa87-e051a7e3ed46.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-#### 🎲 Data Science:
-
-![image](https://user-images.githubusercontent.com/64717231/233402663-ded3dcae-6daa-4373-95bd-7b90e7691cba.png)
-![image](https://user-images.githubusercontent.com/64717231/233402698-8fac190c-334b-4dc5-a2e2-adc3f67c0a78.png)
-![image](https://user-images.githubusercontent.com/64717231/233402724-cecd2a66-1202-45cd-8ce0-49d31b2563aa.png)
-![image](https://user-images.githubusercontent.com/64717231/233402744-ca572ab9-979b-4f8d-839b-c7df43f0203b.png)
-![image](https://user-images.githubusercontent.com/64717231/233402762-278a318f-8f30-4379-995a-32b656762884.png)
-
-#### ⚙️ Data Engineering:
-
-![image](https://user-images.githubusercontent.com/64717231/233403203-acc94635-6da7-482f-a95f-c142c98e779e.png)
-![image](https://user-images.githubusercontent.com/64717231/233403220-16bd69bb-392d-4bc4-8d39-c69f2858c7d7.png)
-![image](https://user-images.githubusercontent.com/64717231/233403236-db07374e-91bc-46fa-a4b3-e56b29d8bffb.png)
-![image](https://user-images.githubusercontent.com/64717231/233403259-2c123597-547b-4d5b-81ca-63486cc36ac4.png)
-![image](https://user-images.githubusercontent.com/64717231/233403275-d41a7889-df4c-4c79-b1db-f0fc0b64579e.png)
-![image](https://user-images.githubusercontent.com/64717231/233509472-51249e80-04df-4ff2-9c54-e81717c0ac6e.png)
-
-
-
-### *Keep calm and solve the problem* 😉
-<!---
-rafaelporfiriobarros/rafaelporfiriobarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
