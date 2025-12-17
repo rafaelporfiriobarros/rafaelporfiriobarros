@@ -23,8 +23,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Big Data & Processamento Distribuído
 
@@ -34,7 +32,6 @@
 ## Orquestração & Pipelines
 
 ![Apache Airflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
 
 ## Cloud & Data Services (AWS)
 
