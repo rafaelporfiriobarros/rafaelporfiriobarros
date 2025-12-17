@@ -1,9 +1,9 @@
-## 👋 Hi, Welcome to my Github!
+## Olá 👋! Meu nome é Rafael Porfirio e este é meu repositório de Data Engineering e Analytics!
 
-- 📊 I'm currently studying Data Science, Analytics, and Data Engineering.
-- 📍 I live in São Paulo - SP/BR
+- 📊 Foco principal em Python, SQL, DataBricks, PySpark, AirFlow, Docker, AWS, PowerBI.
+- 📍 Estou em São Paulo - SP/BR
 
-### 📫 How to reach me:
+### 📫 Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/rafaelporfiriobarros/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
