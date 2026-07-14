@@ -1,6 +1,6 @@
 ## Olá 👋! Meu nome é Rafael Porfirio e este é meu repositório de Analytics!
 
-- 📊 Foco principal em Python, SQL, PowerBI e Excel.
+- 📊 Foco principal em Analytics e Data Engineering.
 - 📍 Estou em São Paulo - SP/BR
 
 ## 📫 Conecte-se comigo:
